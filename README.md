@@ -3,5 +3,11 @@ This is the codebase for LoResMT 2026 Shared Task submission. It contains code f
 Training is implemented via self-contained Jupyter notebooks.
 
 "tencent-gpu-mt-kazakh.ipynb" - Ru-Kazakh
+
 "tencent-gpu-mt-bashkir.ipynb" - Ru-Bashkir
+
 "tencent-gpu-mt-all-chuvash" - En-Chuvash
+
+"translate_ru_to_en_and_push.py" - Back translation
+
+"tencent_gpu_gen.ipynb" - Generation for submission
