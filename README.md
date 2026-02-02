@@ -1,6 +1,6 @@
 # LoResMT 2026 Shared Task Submission
 
-This repository contains the codebase for our LoResMT 2026 Shared Task submission. It includes training scripts, inference code, back-translation utilities, and links to adapters hosted on HuggingFace Hub.
+This repository contains the codebase for our LoResMT 2026 Shared Task submission. It includes training scripts, inference code, back-translation script, and links to  adapters's weights hosted on HuggingFace Hub.
 
 ## Training
 
