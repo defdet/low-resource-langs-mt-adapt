@@ -6,9 +6,9 @@ This repository contains the codebase for our LoResMT 2026 Shared Task submissio
 
 Training is implemented via self-contained Jupyter notebooks:
 
-- `tencent-gpu-mt-kazakh.ipynb` - Russian↔Kazakh translation
-- `tencent-gpu-mt-bashkir.ipynb` - Russian↔Bashkir translation  
-- `tencent-gpu-mt-all-chuvash.ipynb` - English↔Chuvash translation
+- `tencent-gpu-mt-kazakh.ipynb` - Russian -> Kazakh translation
+- `tencent-gpu-mt-bashkir.ipynb` - Russian -> Bashkir translation  
+- `tencent-gpu-mt-all-chuvash.ipynb` - English -> Chuvash translation
 
 ## Inference and Back-Translation
 
